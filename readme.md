@@ -3,11 +3,11 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 Ask questions about the SDCND. Use labels where appropriate:
- - cohort = if related to questions on schedule, start dates, emails etc.
- - payment = if related to billing or payment schedules
- - hardware = if related to questions on specific hardware requirements
- - software = if related to questions on python, c++ or other software tools required
- - general = catch all for other questions
+ - _cohort_ = if related to questions on schedule, start dates, emails etc.
+ - _payment_ = if related to billing or payment schedules
+ - _hardware_ = if related to questions on specific hardware requirements
+ - _software_ = if related to questions on python, c++ or other software tools required
+ - _general_ = catch all for other questions
 
 Anything means *anything related to this course*. 
 
