@@ -3,14 +3,21 @@
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
 Ask questions about the SDCND. Use labels where appropriate:
- - _cohort_ = if related to questions on schedule, start dates, emails etc.
- - _payment_ = if related to billing or payment schedules
- - _hardware_ = if related to questions on specific hardware requirements
- - _software_ = if related to questions on python, c++ or other software tools required
- - _dev-environment_ = if related to laptop or development computer requirements
- - _aws-cloud_ = if related to costs or usage of cloud resources
- - _tensor-flow_ = if related to TensorFlow usage or issues
- - _requirements_ = catch all for any questions on requirements for course
+ - _cohort_ = schedule, start dates, emails etc.
+ - _payment_ = payments or refunds
+ - _scholarship_ = scholarships
+ - _hardware_ = specific hardware requirements
+ - _software_ = python, c++ or other software tools required
+ - _content_ = syllabus, lessons
+ - _dev-environment_ = laptop or development computer requirements
+ - _aws-cloud_ = costs or usage of cloud resources
+ - _tensor-flow_ = TensorFlow usage or issues
+ - _requirements_ = pre-requisites, self-assessment etc.
+ - _challenges_ = project challenges
+ - _data_ = datasets 
+ - _machine-learning_ = general ML
+ - _partners_ = program partners
+ - _career_ = career or academic opportunities
  - _general_ = catch all for other questions
 
 Anything means *anything related to [this course](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)*. 
