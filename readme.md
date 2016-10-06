@@ -10,7 +10,7 @@ Ask questions about the SDCND. Use labels where appropriate:
  - _dev-environment_ = if related to laptop or development computer requirements
  - _aws-cloud_ = if related to costs or usage of cloud resources
  - _tensor-flow_ = if related to TensorFlow usage or issues
- _ _requirements_ = catch all for any questions on requirements for course
+ - _requirements_ = catch all for any questions on requirements for course
  - _general_ = catch all for other questions
 
 Anything means *anything related to [this course](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)*. 
