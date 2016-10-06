@@ -2,15 +2,20 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?q=is%3Aissue+is%3Aclosed+sort%3Aupdated-desc)
 
-I get a lot of questions by email. This way anyone can read the answer!
+Ask questions about the SDCND. Use labels where appropriate:
+ - cohort = if related to questions on schedule, start dates, emails etc.
+ - payment = if related to billing or payment schedules
+ - hardware = if related to questions on specific hardware requirements
+ - software = if related to questions on python, c++ or other software tools required
+ - general = catch all for other questions
 
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
+Anything means *anything related to this course*. 
 
 -
 
 ### Guidelines
 
-- Ensure your question hasn't already been answered.
+- **Ensure your question hasn't already been answered.**
 - Use a succinct title and description.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
