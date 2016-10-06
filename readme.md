@@ -9,9 +9,8 @@ Ask questions about the SDCND. Use labels where appropriate:
  - _software_ = if related to questions on python, c++ or other software tools required
  - _general_ = catch all for other questions
 
-Anything means *anything related to this course*. 
+Anything means *anything related to [this course](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)*. 
 
--
 
 ### Guidelines
 
